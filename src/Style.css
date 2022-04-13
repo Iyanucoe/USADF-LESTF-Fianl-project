@@ -1,0 +1,43 @@
+.whatsapp_float{ 
+    width: 59px; 
+    height: 18px; 
+    color: black; 
+    bottom: 40px; 
+    border-radius: 8px; 
+    text-align: center; 
+    font-size: 29px; 
+    cursor: pointer; 
+}
+
+.facebook_float{ 
+    width: 59px; 
+    height: 18px; 
+    color: black; 
+    bottom: 40px; 
+    border-radius: 8px; 
+    text-align: center; 
+    font-size: 29px; 
+    cursor: pointer; 
+}
+
+.linkedin_float{ 
+    width: 59px; 
+    height: 18px; 
+    color: black; 
+    bottom: 40px; 
+    border-radius: 8px; 
+    text-align: center; 
+    font-size: 29px; 
+    cursor: pointer; 
+}
+
+.github_float{ 
+    width: 59px; 
+    height: 18px; 
+    color: black; 
+    bottom: 40px; 
+    border-radius: 8px; 
+    text-align: center; 
+    font-size: 29px; 
+    cursor: pointer; 
+}
